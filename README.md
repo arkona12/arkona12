@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @arkona12
 - 👀 I’m interested in coding, drawing and painting, music and creative stuff in general
-- 🌱 I’m currently learning python basics and 2d gamedev with unity
+- 🌱 I’m currently learning java basics and 2d gamedev with AGS (c++)
